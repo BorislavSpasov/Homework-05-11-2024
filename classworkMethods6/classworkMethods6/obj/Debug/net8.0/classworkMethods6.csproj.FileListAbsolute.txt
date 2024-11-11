@@ -1,0 +1,14 @@
+C:\Users\thesh\source\repos\classworkMethods6\classworkMethods6\bin\Debug\net8.0\classworkMethods6.exe
+C:\Users\thesh\source\repos\classworkMethods6\classworkMethods6\bin\Debug\net8.0\classworkMethods6.deps.json
+C:\Users\thesh\source\repos\classworkMethods6\classworkMethods6\bin\Debug\net8.0\classworkMethods6.runtimeconfig.json
+C:\Users\thesh\source\repos\classworkMethods6\classworkMethods6\bin\Debug\net8.0\classworkMethods6.dll
+C:\Users\thesh\source\repos\classworkMethods6\classworkMethods6\bin\Debug\net8.0\classworkMethods6.pdb
+C:\Users\thesh\source\repos\classworkMethods6\classworkMethods6\obj\Debug\net8.0\classworkMethods6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thesh\source\repos\classworkMethods6\classworkMethods6\obj\Debug\net8.0\classworkMethods6.AssemblyInfoInputs.cache
+C:\Users\thesh\source\repos\classworkMethods6\classworkMethods6\obj\Debug\net8.0\classworkMethods6.AssemblyInfo.cs
+C:\Users\thesh\source\repos\classworkMethods6\classworkMethods6\obj\Debug\net8.0\classworkMethods6.csproj.CoreCompileInputs.cache
+C:\Users\thesh\source\repos\classworkMethods6\classworkMethods6\obj\Debug\net8.0\classworkMethods6.dll
+C:\Users\thesh\source\repos\classworkMethods6\classworkMethods6\obj\Debug\net8.0\refint\classworkMethods6.dll
+C:\Users\thesh\source\repos\classworkMethods6\classworkMethods6\obj\Debug\net8.0\classworkMethods6.pdb
+C:\Users\thesh\source\repos\classworkMethods6\classworkMethods6\obj\Debug\net8.0\classworkMethods6.genruntimeconfig.cache
+C:\Users\thesh\source\repos\classworkMethods6\classworkMethods6\obj\Debug\net8.0\ref\classworkMethods6.dll

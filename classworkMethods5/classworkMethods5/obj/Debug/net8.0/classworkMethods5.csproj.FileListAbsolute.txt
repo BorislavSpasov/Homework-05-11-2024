@@ -1,0 +1,14 @@
+C:\Users\thesh\source\repos\classworkMethods5\classworkMethods5\obj\Debug\net8.0\classworkMethods5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thesh\source\repos\classworkMethods5\classworkMethods5\obj\Debug\net8.0\classworkMethods5.AssemblyInfoInputs.cache
+C:\Users\thesh\source\repos\classworkMethods5\classworkMethods5\obj\Debug\net8.0\classworkMethods5.AssemblyInfo.cs
+C:\Users\thesh\source\repos\classworkMethods5\classworkMethods5\obj\Debug\net8.0\classworkMethods5.csproj.CoreCompileInputs.cache
+C:\Users\thesh\source\repos\classworkMethods5\classworkMethods5\bin\Debug\net8.0\classworkMethods5.exe
+C:\Users\thesh\source\repos\classworkMethods5\classworkMethods5\bin\Debug\net8.0\classworkMethods5.deps.json
+C:\Users\thesh\source\repos\classworkMethods5\classworkMethods5\bin\Debug\net8.0\classworkMethods5.runtimeconfig.json
+C:\Users\thesh\source\repos\classworkMethods5\classworkMethods5\bin\Debug\net8.0\classworkMethods5.dll
+C:\Users\thesh\source\repos\classworkMethods5\classworkMethods5\bin\Debug\net8.0\classworkMethods5.pdb
+C:\Users\thesh\source\repos\classworkMethods5\classworkMethods5\obj\Debug\net8.0\classworkMethods5.dll
+C:\Users\thesh\source\repos\classworkMethods5\classworkMethods5\obj\Debug\net8.0\refint\classworkMethods5.dll
+C:\Users\thesh\source\repos\classworkMethods5\classworkMethods5\obj\Debug\net8.0\classworkMethods5.pdb
+C:\Users\thesh\source\repos\classworkMethods5\classworkMethods5\obj\Debug\net8.0\classworkMethods5.genruntimeconfig.cache
+C:\Users\thesh\source\repos\classworkMethods5\classworkMethods5\obj\Debug\net8.0\ref\classworkMethods5.dll
